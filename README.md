@@ -1,5 +1,3 @@
-Just 2 simple steps:
-
 1. Attach _rq_chartbasic.html_ file to PLCnext Engineer project and make variables visible setting as _global_ with _HMI Tag_.
 
 <p align="center">
