@@ -2,7 +2,7 @@
 
 1. Download and extract _RQ_ChartBasic.zip_.
 
-2. Attach _rq_chartbasic.html_ file to PLCnext Engineer project and make variables visible just setting as _global_ with _HMI Tag_.
+2. Attach _rq_chartbasic.html_ file to PLCnext Engineer project and make variables visible just setting as _global_ with _HMI Tag_. 
 
 <p align="center">
 <img src="gifs/RQ_ChartBasic_plcne.gif"/>
