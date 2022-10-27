@@ -1,4 +1,4 @@
-# Quickstart
+# Quickstart 
 
 1. Download and extract _RQ_ChartBasic.zip_.
 
