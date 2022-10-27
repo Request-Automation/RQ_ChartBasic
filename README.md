@@ -1,3 +1,5 @@
+# Quickstart
+
 1. Download and extract _RQ_ChartBasic.zip_.
 
 2. Attach _rq_chartbasic.html_ file to PLCnext Engineer project and make variables visible setting as _global_ with _HMI Tag_.
@@ -13,3 +15,5 @@
 </p>
 
 4. Select a **single value** variable o an **array** variable
+
+_A more detailed description of features is available in RQ_ChartBasic_1.pdf documentation file._
