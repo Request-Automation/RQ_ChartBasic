@@ -16,4 +16,4 @@
 
 4. Select a **single value** variable o an **array** variable
 
-_A more detailed description of features is available in RQ_ChartBasic_1.pdf documentation file._
+_A detailed description of features is available in RQ_ChartBasic_1.pdf documentation file._
