@@ -11,3 +11,5 @@
 <p align="center">
 <img src="gifs/RQ_ChartBasic_browser.gif"/>
 </p>
+
+4. Select a **single value** variable o an **array** variable
