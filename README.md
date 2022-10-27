@@ -10,10 +10,12 @@
 
 3. Use any browser to connect to the html page at _https://_<IP_ADDRESS>_/ehmi/rq_chartbasic.html_
 
+4. Select a **single value** variable o an **array** variable
+
 <p align="center">
 <img src="gifs/RQ_ChartBasic_browser.gif"/>
 </p>
 
-4. Select a **single value** variable o an **array** variable
 
-_A detailed description of features is available in RQ_ChartBasic_1.pdf documentation file._
+
+_A detailed description of features is available in RQ_ChartBasic_1/Documents/English/RQ_ChartBasic_1.pdf documentation file._
