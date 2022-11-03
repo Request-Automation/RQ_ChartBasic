@@ -1,5 +1,8 @@
 # Quickstart 
 
+_A detailed description of features is available in **RQ_ChartBasic_1/Documents/English/RQ_ChartBasic_1.pdf**._
+
+
 1. Download and extract _RQ_ChartBasic.zip_.
 
 2. Attach _rq_chartbasic.html_ file to PLCnext Engineer project and make variables visible just setting as _global_ with _HMI Tag_. 
@@ -18,4 +21,3 @@
 
 
 
-_A detailed description of features is available in RQ_ChartBasic_1/Documents/English/RQ_ChartBasic_1.pdf documentation file._
